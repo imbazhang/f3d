@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+	<!-- LAS format -->
+	<mime-type type="application/vnd.las">
+		<comment>LAS Point Cloud Data</comment>
+		<glob pattern="*.las"/>
+		<glob pattern="*.laz"/>
+	</mime-type>
+</mime-info>
